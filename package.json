@@ -1,7 +1,7 @@
 {
-  "name": "begin-w-nodejs",
+  "name": "begin-nodejs",
   "version": "1.0.0",
-  "description": "nodejs-course",
+  "description": "Curso de nodejs para principiantes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "course",
+    "begin",
     "node"
   ],
   "author": "Ody",
